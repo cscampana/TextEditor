@@ -25,7 +25,7 @@ public class screenAbout extends Application  {
         
         Label lblEd = new Label("TextEditor - version 0.1 Alpha");
         lblEd.setFont(Font.font(18));
-        Label lblRest = new Label("Program created by SirExtreme - All rights reserved" + "\r\n" + "Contact: " + "caike.campana2@gmail.com");
+        Label lblRest = new Label("Program created by SirExtreme - Public domain" + "\r\n" + "Contact: " + "caike.campana2@gmail.com");
         
         
         
