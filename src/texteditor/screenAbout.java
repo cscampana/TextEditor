@@ -27,14 +27,6 @@ public class screenAbout extends Application  {
         lblEd.setFont(Font.font(18));
         Label lblRest = new Label("Program created by SirExtreme - Public domain" + "\r\n" + "Contact: " + "caike.campana2@gmail.com");
         
-        
-        
-        
-        
-        
-        
-        
-        
         VBox vbox = new VBox();
         vbox.getChildren().add(lblEd);
         vbox.getChildren().add(lblRest);
